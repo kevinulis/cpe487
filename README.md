@@ -9,4 +9,5 @@ hex4count: Lab 2\
 hexcount: class example\
 mux: class example\
 pong1: Lab 6\
-vgaball: Lab 3
+vgaball: Lab 3\
+hexcalc: Lab 4
