@@ -10,4 +10,5 @@ hexcount: class example\
 mux: class example\
 pong1: Lab 6\
 vgaball: Lab 3\
-hexcalc: Lab 4
+hexcalc: Lab 4\
+siren: Lab 5
